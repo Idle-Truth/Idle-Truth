@@ -55,4 +55,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idle-Truth&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![](https://visitcount.itsvg.in/api?id=Idle-Truth&icon=0&color=10)](https://visitcount.itsvg.in)
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">         [![](https://visitcount.itsvg.in/api?id=Idle-Truth&icon=0&color=10)](https://visitcount.itsvg.in)
