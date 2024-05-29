@@ -1,9 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=7000&pause=20000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=true&width=1300&height=140&lines=1The+only+true+wisdom+is+in+knowing+you+know+nothing++%E2%9C%A9" width="70%" />
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=5000&color=FFB7C5&center=true&random=false&width=620&height=52&lines=%F0%9F%8C%B8%E2%80%A2The+only+true+wisdom+is+in+knowing+you+know+nothing%E2%80%A2%F0%9F%8C%B8)](https://git.io/typing-svg)
     
-
 # [-𝒥𝑜𝓈𝒽𝒸𝓇𝒶𝓉𝑒𝓈](https://github.com/Joshcrates)
 <br>
 </div>
