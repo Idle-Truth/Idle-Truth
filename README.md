@@ -24,6 +24,12 @@
 - 🔍 **Interests:** DevOps methodologies, automation, containerization, and CI/CD pipelines.
 - 🛠️ **Currently Learning:** Docker, Kubernetes, and cloud platforms like AWS.
 
+<div align="center">
+    <br>
+    
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1uq3n6qi5mk5618au4iab2b5s&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=c43cb9&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1uq3n6qi5mk5618au4iab2b5s&redirect=true)
+</div>
+
 ---
 
 ## 💼 Professional Goals
