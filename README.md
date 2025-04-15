@@ -17,12 +17,24 @@
 
 ## 🌟 About Me
 
-👋 Hi there! I’m **Trey**, a student passionate about exploring the intersection of technology, creativity, and problem-solving.
+# 👋 Hi, I’m Trey!
 
-- 🎓 **Studying:** Information Technology at the University of Central Florida.
-- 🌍 **Location:** Orlando, FL, USA.
-- 🔍 **Interests:** DevOps methodologies, automation, containerization, and CI/CD pipelines.
-- 🛠️ **Currently Learning:** Docker, Kubernetes, and cloud platforms like AWS.
+🎓 I'm an Information Technology student at the University of Central Florida, passionate about building innovative tech solutions and blending creativity with problem-solving.
+
+## 🔧 Current Interests
+- Backend development with Go
+- Infrastructure automation & terminal workflows
+- Containerization with Docker & Kubernetes
+- Game development with a focus on VR/AR
+
+## 🌱 Currently Learning
+- Advanced Go patterns
+- CI/CD pipelines
+- Cloud platforms like AWS
+
+📍 Based in Orlando, FL  
+💬 Always up for chatting about cool projects, dev tools, or experimental game mechanics.
+
 
 <div align="center">
     <br>
@@ -31,7 +43,9 @@
 
 
 </div>
-
+<div align="center">
+<img src="https://64.media.tumblr.com/39c06f0d2343a8c4b50c1e570939cd77/73868c1cd0a80983-77/s540x810/d897b37dc94a4778067beff5b40bcb141d508429.gifv">
+</div>
 ---
 
 ## 💼 Professional Goals
@@ -44,9 +58,7 @@ I’m on a mission to:
 
 ## 💻 Tech Stack
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=purple) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=purple) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
