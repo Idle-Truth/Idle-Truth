@@ -49,10 +49,11 @@
 ---
 
 ## 💼 Professional Goals
-I’m on a mission to:
-- Streamline development processes through innovative DevOps strategies.
-- Master cutting-edge tools for monitoring, deployment, and infrastructure management.
-- Contribute to open-source projects and collaborate with like-minded developers.
+- Streamline development with automation, containers, and clean DevOps practices.  
+- Build immersive VR/AR experiences by combining creative design with solid engineering.  
+- Master tools like Docker, Kubernetes, and cloud platforms to support scalable, real-time applications.  
+- Contribute to open-source and collaborate with devs who love pushing the boundaries of tech and gameplay.
+
 
 ---
 
