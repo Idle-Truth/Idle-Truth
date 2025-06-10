@@ -19,18 +19,19 @@
 
 # 👋 Hi, I’m Trey!
 
-🎓 I'm an Information Technology student at the University of Central Florida, passionate about building innovative tech solutions and blending creativity with problem-solving.
+🎓 I'm an Information Technology student at the University of Central Florida, passionate about creative problem-solving and building immersive tech experiences through code and design.
 
 ## 🔧 Current Interests
-- Backend development with Go
-- Infrastructure automation & terminal workflows
-- Containerization with Docker & Kubernetes
-- Game development with a focus on VR/AR
+-Real-time rendering and shaders (GLSL/HLSL)
+-Game engine development
+-Graphics programming in C++ and Go
+-VR/AR pipelines and optimization
 
 ## 🌱 Currently Learning
-- Advanced Go patterns
-- CI/CD pipelines
-- Cloud platforms like AWS
+-GPU pipelines & shader languages
+-Vulkan & OpenGL
+-Linear algebra for graphics
+-Custom engine architecture
 
 📍 Based in Orlando, FL  
 💬 Always up for chatting about cool projects, dev tools, or experimental game mechanics.
@@ -49,17 +50,16 @@
 ---
 
 ## 💼 Professional Goals
-- Streamline development with automation, containers, and clean DevOps practices.  
-- Build immersive VR/AR experiences by combining creative design with solid engineering.  
-- Master tools like Docker, Kubernetes, and cloud platforms to support scalable, real-time applications.  
-- Contribute to open-source and collaborate with devs who love pushing the boundaries of tech and gameplay.
-
+-Break into graphics engineering with a strong focus on shaders, rendering, and visual systems.
+-Build custom graphics tools and engines that power unique interactive experiences.
+-Work on real-time 3D environments for games, XR, and creative applications.
+-Contribute to the future of visual storytelling through code.
 
 ---
 
 ## 💻 Tech Stack
 
-![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=purple) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=purple) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
@@ -76,8 +76,7 @@
 ---
 
 ## 📬 Get in Touch
-- 💌 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
-- 💼 **LinkedIn:** [YourLinkedIn](https://www.linkedin.com)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com)
 - 🌐 **Portfolio:** [YourPortfolio](https://www.yourportfolio.com)
 
 ---
