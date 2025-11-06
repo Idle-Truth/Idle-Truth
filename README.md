@@ -42,11 +42,6 @@
     
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1uq3n6qi5mk5618au4iab2b5s&cover_image=true&theme=default&show_offline=false&background_color=050505&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1uq3n6qi5mk5618au4iab2b5s&redirect=true)
 
-
-</div>
-<div align="center">
-<img src="https://64.media.tumblr.com/39c06f0d2343a8c4b50c1e570939cd77/73868c1cd0a80983-77/s540x810/d897b37dc94a4778067beff5b40bcb141d508429.gifv">
-</div>
 ---
 
 ## 💼 Professional Goals
