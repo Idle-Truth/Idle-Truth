@@ -17,7 +17,7 @@
 
 ## 🌟 About Me
 
-# 👋 Hi, I’m Trey!
+# 👋 Hi, I’m Taylor!
 
 🎓 I'm an Information Technology student at the University of Central Florida, passionate about creative problem-solving and building immersive tech experiences through code and design.
 
